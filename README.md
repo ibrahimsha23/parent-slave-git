@@ -13,3 +13,7 @@ reverse of parent ->> child can't be tracked? find solution
 
   Need to analysed?
   
+  Solution:
+  
+  1.  Need to track which repo had cloned and 
+  
